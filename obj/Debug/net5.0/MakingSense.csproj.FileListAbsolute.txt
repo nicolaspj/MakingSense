@@ -1,0 +1,16 @@
+/home/nicolas/Escritorio/making/MakingSense/bin/Debug/net5.0/MakingSense
+/home/nicolas/Escritorio/making/MakingSense/bin/Debug/net5.0/MakingSense.deps.json
+/home/nicolas/Escritorio/making/MakingSense/bin/Debug/net5.0/MakingSense.runtimeconfig.json
+/home/nicolas/Escritorio/making/MakingSense/bin/Debug/net5.0/MakingSense.runtimeconfig.dev.json
+/home/nicolas/Escritorio/making/MakingSense/bin/Debug/net5.0/MakingSense.dll
+/home/nicolas/Escritorio/making/MakingSense/bin/Debug/net5.0/ref/MakingSense.dll
+/home/nicolas/Escritorio/making/MakingSense/bin/Debug/net5.0/MakingSense.pdb
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/MakingSense.csproj.AssemblyReference.cache
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/MakingSense.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/MakingSense.AssemblyInfoInputs.cache
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/MakingSense.AssemblyInfo.cs
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/MakingSense.csproj.CoreCompileInputs.cache
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/MakingSense.dll
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/ref/MakingSense.dll
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/MakingSense.pdb
+/home/nicolas/Escritorio/making/MakingSense/obj/Debug/net5.0/MakingSense.genruntimeconfig.cache
